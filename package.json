@@ -1,0 +1,20 @@
+{
+  "name": "coffeecat-ws",
+  "version": "1.0.0",
+  "description": "Containerized WebSocket Server for the CoffeeCat Applet Container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlaanderson/coffeecat-ws.git"
+  },
+  "keywords": ["WebSocket", "CoffeeCat"],
+  "author": "Michael Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlaanderson/coffeecat-ws/issues"
+  },
+  "homepage": "https://github.com/mlaanderson/coffeecat-ws#readme"
+}
